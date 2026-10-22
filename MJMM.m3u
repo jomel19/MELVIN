@@ -19,6 +19,8 @@ http://179.1.145.73:8049/play/a07m/index.m3u8
 http://38.226.49.253:8000/play/a04c/index.m3u8
 #EXTINF:-1 group-title="-",Panamericana HD 3
 http://190.234.82.52:8000/play/a0nq/index.m3u8
+#EXTINF:-1 group-title="-",TV Peru HDD
+http://190.93.224.42/VIVA-TV/index.m3u8
 #EXTINF:-1 group-title="-",TV Peru HD
 http://190.234.82.52:8000/play/a0nr/index.m3u8
 #EXTINF:-1 group-title="-",TV Peru A
@@ -36,9 +38,9 @@ http://170.79.235.133:8002/play/a00c/index.m3u8
 #EXTINF:-1 group-title="-",CANAL H HDD
 http://177.53.152.117:8000/play/a0b6/index.m3u8
 #EXTINF:-1 group-title="-",EXITOSA HD
-http://179.1.145.73:8049/play/a00a/index.m3u8
+http://190.93.224.42/EXITOSA/index.m3u8
 #EXTINF:-1 group-title="-",Exitosa HD
-http://179.1.145.73:8049/play/a00a/index.m3u8
+http://190.234.82.52:8000/play/a0kq/index.m3u8
 #EXTINF:-1 group-title="-",Exitosa TV HD
 http://179.1.145.73:8049/play/a03i/index.m3u8
 #EXTINF:-1 group-title="-",10009 ATV+ Noticias
@@ -50,8 +52,10 @@ http://179.1.145.73:8049/play/a04p/index.m3u8
 #EXTINF:-1 group-title="-",Willax HD+
 http://179.1.145.73:8049/play/a03j/index.m3u8
 #EXTINF:-1 group-title="-",RPP HD
+http://190.93.224.42/RPP/index.m3u8
+#EXTINF:-1 group-title="-",RPP HD 1
 http://190.234.82.52:8000/play/a0nw/index.m3u8
-#EXTINF:-1 group-title="-",RPP
+#EXTINF:-1 group-title="-",RPP HDD
 http://179.1.145.73:8049/play/a03o/index.m3u8
 #EXTINF:-1 group-title="-",RPP  HD
 http://38.226.49.253:8000/play/a04f/index.m3u8
@@ -61,18 +65,30 @@ http://38.210.105.10:8000/play/ro4
 http://38.226.49.253:8000/play/a04g/index.m3u8
 #EXTINF:-1 group-title="-",PBO HD
 http://179.1.145.73:8049/play/a02v/index.m3u8
-#EXTINF:-1 group-title="-",10008 GO TV
-http://179.1.145.73:8049/play/a005/index.m3u8
+#EXTINF:-1 group-title="-",NATIVA TV HD
+http://177.53.153.21:8000/play/a0o2/index.m3u8
+#EXTINF:-1 group-title="-",TRIVU TV HD
+http://190.93.224.42/TRIVU-TV/index.m3u8
+#EXTINF:-1 group-title="-",ODTV HD
+http://200.48.65.77:8000/play/a027
+#EXTINF:-1 group-title="-",TVN HD
+http://200.48.65.77:8000/play/a028
+#EXTINF:-1 group-title="-",CHAVO DEL 8 24/7
+http://ltv.ddns.net:8080/rs086808/mpZJHKchMB/53176.ts 
 #EXTINF:-1 group-title="-",FIVER TV 1
 http://38.226.49.253:8000/play/a0g9/index.m3u8
 #EXTINF:-1 group-title="-",FIVER TV 2
 http://38.226.49.253:8000/play/a0ga/index.m3u8
+#EXTINF:-1 group-title="-",BEETME HD
+http://200.48.65.77:8000/play/a020
 #EXTINF:-1 group-title="-",BETHEL TV HD
 http://179.1.145.73:8049/play/a04d/index.m3u8
 #EXTINF:-1 group-title="-",BETHEL TV +
 http://38.226.49.253:8000/play/a0cq/index.m3u8
 #EXTINF:-1 group-title="-",BETHEL TV   HD
 http://38.226.49.253:8000/play/a06s/index.m3u8
+#EXTINF:-1 group-title="-",ENLACE TV HD 1
+http://179.60.224.196:8000/play/a0gi/index.m3u8
 #EXTINF:-1 group-title="-",ENLACE TV
 http://38.224.175.2:8000/play/a00h/index.m3u8
 #EXTINF:-1 group-title="-",ENLACE TV HD
@@ -105,6 +121,8 @@ http://45.167.2.101:8000/play/a0rx/index.m3u8
 http://45.167.2.101:8000/play/a0rv/index.m3u8
 #EXTINF:-1 group-title="-",APOLO TV
 http://38.226.49.253:8000/play/a0g8/index.m3u8
+#EXTINF:-1 group-title="-",CHINCHA TV HD
+https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8
 #EXTINF:-1 group-title="-",OVACIÓN TV
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 group-title="-",L1 HD
@@ -113,29 +131,37 @@ http://179.1.145.73:8049/play/a056/index.m3u8
 http://179.1.145.73:8049/play/a085/index.m3u8
 #EXTINF:-1 group-title="-",L1 ENCODER
 http://38.226.49.253:8000/play/a0gl/index.m3u8
+#EXTINF:-1 group-title="-",L1 MAX  CR
+https://cablered.iptvperu.tv:1936/cablered/liga1max.stream/playlist.m3u8
 #EXTINF:-1 group-title="-",L1 MAX ENCODER
 http://179.1.145.73:8049/play/a084/index.m3u8
 #EXTINF:-1 group-title="-",L1 MAX HD
 http://190.234.82.52:8000/play/a0q8/index.m3u8
 #EXTINF:-1 group-title="-",L1 MAX HDD
 http://190.234.82.52:8000/play/a0aq/index.m3u8
-#EXTINF:-1 group-title="-",L1 MAX 1
+#EXTINF:-1 group-title="-",L1 MAX HD 1
 http://179.1.145.73:8049/play/a03w/index.m3u8
-#EXTINF:-1 group-title="-",L1 MAX 1.1
+#EXTINF:-1 group-title="-",L1 MAX HD 1.1
 http://38.226.49.253:8000/play/a0g4/index.m3u8
-#EXTINF:-1 group-title="-",L1 MAX 1.2
-http://38.226.49.253:8000/play/a002/index.m3u8
-#EXTINF:-1 group-title="-",L1 MAX 1.3
-http://179.1.145.73:8049/play/a03w/index.m3u8
-#EXTINF:-1 group-title="-",L1 MAX 1.4 F
+#EXTINF:-1 group-title="-",L1 MAX HD 1.2
+http://200.48.65.77:8000/play/a016
+#EXTINF:-1 group-title="-",L1 MAX HD 1.3
+http://177.53.153.21:8000/play/a16u/index.m3u8
+#EXTINF:-1 group-title="-",L1 MAX HD 1.4 F
+#EXTINF:-1 group-title="-",L1 MAX HD 1.5 HD
+http://190.119.205.14:8000/play/a0rt/index.m3u8
 http://190.119.168.226:4000/play/a0fx/index.m3u8
-#EXTINF:-1 group-title="-",MOVISTAR DEPORTES HD
+#EXTINF:-1 group-title="-",MOVISTAR DEPORTES HD 
 http://190.234.82.52:8000/play/ac1q/index.m3u8
-#EXTINF:-1 group-title="-",MOVISTAR DEPORTES
+#EXTINF:-1 group-title="-",MOVISTAR DEPORTES HD 1
+http://190.234.82.52:8000/play/ac1q/index.m3u8
+#EXTINF:-1 group-title="-",MOVISTAR DEPORTES HDDD
 http://38.226.49.253:8000/play/a0gf/index.m3u8
 #EXTINF:-1 group-title="-",MOVISTAR DEPORTES HDD
-http://38.224.175.2:8000/play/a08o/index.m3u8
+http://177.53.153.21:8000/play/a0o1/index.m3u8
 #EXTINF:-1 group-title="-",DSPORTS HD
+http://190.119.205.14:8000/play/a0q5/index.m3u8
+#EXTINF:-1 group-title="-",DSPORTS HDDD
 http://190.234.82.52:8000/play/ac5p/index.m3u8
 #EXTINF:-1 group-title="-",DSPORTS HDD
 http://38.224.175.2:8000/play/a09o/index.m3u8
@@ -145,15 +171,17 @@ http://190.234.82.52:8000/play/c4pn/index.m3u8
 http://179.1.145.73:8049/play/a07u/index.m3u8
 #EXTINF:-1 group-title="-",DSPORTS 2 HD ENCODER
 http://45.188.229.33:8000/play/a1ix/index.m3u8
-#EXTINF:-1 group-title="-",DSPORTS 2 HD
-http://38.224.175.2:8000/play/a066/index.m3u8
-#EXTINF:-1 group-title="-",DSPORTS 2 HD +
-http://138.121.113.175:8000/play/a0ca/index.m3u8
 #EXTINF:-1 group-title="-",DSPORT+ HD
 http://179.1.145.73:8049/play/a05a/index.m3u8
 #EXTINF:-1 group-title="-",DSPORT+
 http://38.224.175.2:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="-",DSPORT+ HD
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090676&extension=ts
+#EXTINF:-1 group-title="-",ESPN HDD
+https://cablered.iptvperu.tv:1936/cablered/espn_new/playlist.m3u8
 #EXTINF:-1 group-title="-",ESPN HD
+http://179.1.145.73:8049/play/a005/index.m3u8
+#EXTINF:-1 group-title="-",ESPN HD 1
 http://38.226.49.253:8000/play/a07l/index.m3u8
 #EXTINF:-1 group-title="-",ESPN HD ENCODER
 http://179.1.145.73:8049/play/a036/index.m3u8
@@ -220,7 +248,9 @@ http://179.1.145.73:8049/play/a042/index.m3u8
 #EXTINF:-1 group-title="-",ESPN Premium HD A
 http://38.226.49.253:8000/play/a07t/index.m3u8
 #EXTINF:-1 group-title="-",TNT SPORTS ARGENTINA
-http://138.121.113.175:8000/play/a05k/index.m3u8
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090608&extension=ts
+#EXTINF:-1 group-title="-",TNT SPORTS ARGENTINA HD
+http://179.60.224.196:8000/playlist.m3u8
 #EXTINF:-1 group-title="-",TNT Sports Premiun HD ENCODER
 http://179.1.145.73:8049/play/a029/index.m3u8
 #EXTINF:-1 group-title="-",TNT Sports Premiun HD
@@ -236,7 +266,9 @@ http://138.121.113.175:8000/play/a05j/index.m3u8
 #EXTINF:-1 group-title="-",TYC SPORTS HD
 http://138.121.113.175:8000/play/a05i/index.m3u8
 #EXTINF:-1 group-title="-",TUDN HD
-http://45.167.2.101:8000/play/a0r4/index.m3u8
+http://179.60.224.196:8000/play/a0f4/index.m3u8
+#EXTINF:-1 group-title="-",SKY SPORTS HD
+http://179.60.224.196:8000/play/a0i7/index.m3u8
 #EXTINF:-1 group-title="-",FOX SPORTS
 http://45.167.2.138:8000/play/a0ql
 #EXTINF:-1 group-title="-",FOX SPORTS 2 MX
@@ -249,6 +281,8 @@ http://179.1.145.73:8049/play/a053/index.m3u8
 http://179.1.145.73:8049/play/a051/index.m3u8
 #EXTINF:-1 group-title="-",TIGO SPORTS HD
 http://45.170.130.224:8000/play/a04k/index.m3u8
+#EXTINF:-1 group-title="-",BEIN SPORTA EXTRA HD
+https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8
 #EXTINF:-1 group-title="-",BEIN SPORTA EXTRA
 http://45.239.31.254:8000/play/a01o
 #EXTINF:-1 group-title="-",EUROSPORT HD
